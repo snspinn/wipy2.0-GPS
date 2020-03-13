@@ -45,13 +45,11 @@ while True:
 	time.sleep_ms(1000)   # sleeping 1 second
 ```
 
-More Info:
------------
-* Blog article: http://lemariva.com/blog/2017/01/wipy-2-0-weather-report-box
 
 Credits:
 ---------------
-* forked from: https://github.com/inmcm/micropyGPS
+* forked from:  https://github.com/lemariva/wipy2.0-GPS
+  * which is a fork from: https://github.com/inmcm/micropyGPS
 
 License:
 ---------------
